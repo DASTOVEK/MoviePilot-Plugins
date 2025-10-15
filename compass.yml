@@ -1,0 +1,13 @@
+name: MoviePilot-Plugins
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/d09db7a2-ba38-4115-94b3-a0705bfd7f24
+description: MoviePilot官方插件市场
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
